@@ -10,6 +10,6 @@ public class Human {
         System.out.println("Sleep");
     }
     public void wakeUp(){
-        System.out.println("WakeUp");
+        System.out.println("WakeU");
     }
 }
